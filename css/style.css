@@ -1,0 +1,44 @@
+/**
+ * This file should get overwritten if Method 1 is used. If Method 2 is chosen,
+ * remove this comment and start adding your styles to this file.
+ */
+nav ul.menu.nav.navbar-nav{
+margin-top:30px;
+}
+td.forum div.indent{
+padding-left:2em;
+}
+div#forum thead{
+background-color:#eee;
+}
+div#forum thead th{
+padding:0.2em;
+}
+div#forum tbody{
+}
+header#page-header{
+margin-top:76px;
+}
+body.front h1.page-header{
+display:none;
+}
+
+div.view-display-id-block_making td{
+ padding:12px;
+}
+div.views-field-title a{
+ font-size:16px;
+}
+
+div.view-display-id-block_latest_events td{
+ padding:12px;
+}
+
+#block-menu-menu-login{
+float:right;
+}
+
+#block-menu-menu-login li{
+float:left;
+}
+
